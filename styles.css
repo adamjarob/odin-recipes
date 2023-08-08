@@ -1,0 +1,13 @@
+#main-heading {
+    font-family: "Impact", sans-serif;
+    text-align: center;
+    font-size: 26px;
+}
+
+.list {
+    background-color: rgb(248, 188, 188);
+    font-family: sans-serif;
+    color: green;
+    font-size: 14px;
+
+}
